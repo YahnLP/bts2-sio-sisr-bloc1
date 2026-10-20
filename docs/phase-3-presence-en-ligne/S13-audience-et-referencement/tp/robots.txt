@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /reserver.php
+Disallow: /reservations.php
+
+Sitemap: https://portail.bellevigne.example/sitemap.xml

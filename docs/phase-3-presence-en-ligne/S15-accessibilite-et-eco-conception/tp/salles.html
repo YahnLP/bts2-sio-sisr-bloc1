@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Salles communales – Mairie de Bellevigne</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Salles communales</h1>
+    <nav aria-label="Navigation principale">
+      <ul>
+        <li><a href="salles.html">Les salles</a></li>
+        <li><a href="#reservation">Réserver</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <section aria-labelledby="titre-salles">
+      <h2 id="titre-salles">Les salles disponibles</h2>
+      <table id="tableau-salles">
+        <caption>Capacité et équipements de chaque salle</caption>
+        <thead>
+          <tr><th scope="col">Salle</th><th scope="col">Capacité</th><th scope="col">Équipements</th></tr>
+        </thead>
+        <tbody>
+          <tr><td>Salle des fêtes</td><td>200</td><td>Scène, sonorisation, cuisine</td></tr>
+          <tr><td>Salle du conseil</td><td>40</td><td>Vidéoprojecteur</td></tr>
+          <tr><td>Salle des associations A</td><td>25</td><td>Tables modulables</td></tr>
+          <tr><td>Salle des associations B</td><td>15</td><td>Tableau blanc</td></tr>
+          <tr><td>Gymnase</td><td>120</td><td>Vestiaires</td></tr>
+          <tr><td>Salle d'exposition</td><td>60</td><td>Cimaises, éclairage</td></tr>
+        </tbody>
+      </table>
+    </section>
+
+    <section aria-labelledby="titre-reservation" id="reservation">
+      <h2 id="titre-reservation">Demander une réservation</h2>
+      <form id="formulaire" action="reserver.php" method="post" novalidate>
+        <p><label for="nom">Nom de l'association</label>
+           <input type="text" id="nom" name="nom" required></p>
+        <p><label for="courriel">Courriel</label>
+           <input type="email" id="courriel" name="courriel" required></p>
+        <p><label for="salle">Salle</label>
+           <select id="salle" name="salle">
+             <option value="1">Salle des fêtes</option>
+             <option value="2">Salle du conseil</option>
+             <option value="3">Salle des associations A</option>
+             <option value="4">Salle des associations B</option>
+             <option value="5">Gymnase</option>
+             <option value="6">Salle d'exposition</option>
+           </select></p>
+        <p><label for="jour">Date</label>
+           <input type="date" id="jour" name="jour" required></p>
+        <p><label for="debut">Début</label>
+           <input type="time" id="debut" name="debut" required></p>
+        <p><label for="fin">Fin</label>
+           <input type="time" id="fin" name="fin" required></p>
+        <p><button type="submit">Envoyer la demande</button></p>
+        <p id="message" role="status" aria-live="polite"></p>
+      </form>
+    </section>
+  </main>
+
+  <footer>
+    <p>Mairie de Bellevigne (commune fictive) – exemple pédagogique</p>
+  </footer>
+  <script src="salles.js"></script>
+</body>
+</html>
