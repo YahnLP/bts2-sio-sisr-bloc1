@@ -50,7 +50,7 @@ Si ta situation le permet : **observer** comment ton entreprise traite le sujet 
 <details markdown="1">
 <summary>Notes pour l'enseignant</summary>
 
-- **Compétences :** codes relus sur le référentiel ; le choix des compétences pour cette séance est une proposition **à valider**.
+- **Compétences :** codes relus sur le référentiel.
 - La page de référence (HTML, CSS) a été **vérifiée** : document bien formé, contrastes calculés (texte 17,4:1 ; bandeau 11,48:1 ; bouton 6,67:1 ; erreur 7,33:1).
 - Aucune dépendance externe (pas de bibliothèque, pas de police distante) : adapté au RGPD et au poste de la salle.
 

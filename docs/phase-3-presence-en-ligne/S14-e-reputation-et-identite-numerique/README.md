@@ -52,7 +52,7 @@ Si ta situation le permet : **observer** comment ton entreprise traite le sujet 
 <details markdown="1">
 <summary>Notes pour l'enseignant</summary>
 
-- **Compétences :** codes relus sur le référentiel ; le choix des compétences pour cette séance est une proposition **à valider**.
+- **Compétences :** codes relus sur le référentiel.
 - Les avis sont **fictifs** (12 avis, fichier CSV) ; note moyenne 44 / 12 = 3,67 ; 3 avis négatifs (note de 1 ou 2) sur 12, soit 25 %. Les chiffres ont été recalculés avec `awk`.
 - La partie sur l'identité numérique personnelle est **individuelle et confidentielle** : l'étudiant ne rend pas ses comptes ni ses captures, seulement un **plan d'action**. Ne pas demander de montrer des comptes personnels.
 - Les aspects juridiques (droit de réponse, diffamation, droit à l'effacement, droit à l'image, devoir de réserve des agents) sont **évoqués sans les trancher** : **à vérifier**, et à renvoyer à la direction ou au service juridique dans un cas réel.

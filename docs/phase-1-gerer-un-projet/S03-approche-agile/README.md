@@ -50,7 +50,7 @@ Si ta situation le permet : **observer** comment ton entreprise traite le sujet 
 <details markdown="1">
 <summary>Notes pour l'enseignant</summary>
 
-- **Compétences :** codes relus sur le référentiel ; le choix des compétences pour cette séance est une proposition **à valider**.
+- **Compétences :** codes relus sur le référentiel.
 - Les points d'effort et la vélocité sont **fictifs** ; le total du carnet est de 34 points et la vélocité de 10 points par sprint donne 4 sprints.
 - Le vocabulaire de Scrum est celui du guide Scrum ; vérifier la version en vigueur avant usage noté.
 

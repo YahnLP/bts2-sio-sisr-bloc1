@@ -54,7 +54,7 @@ Si ta situation le permet : **observer** comment ton entreprise traite le sujet 
 <details markdown="1">
 <summary>Notes pour l'enseignant</summary>
 
-- **Compétences :** codes relus sur le référentiel ; le choix des compétences pour cette séance est une proposition **à valider**.
+- **Compétences :** codes relus sur le référentiel.
 - La zone de référence passe `named-checkzone` ; elle a été **servie par BIND** sur 127.0.0.1, port 5353, et interrogée avec `dig` (MX, A, CNAME, TXT, NXDOMAIN) : les réponses attendues sont celles observées. La zone erronée produit bien les trois messages d'erreur annoncés.
 - Le script `lance-dns-labo.sh` écrit une configuration dans le dossier courant et lance `named` au premier plan ; il ne touche à aucun vrai nom de domaine. Des avertissements sur la racine (« insecurity proof failed… ») peuvent s'afficher : ils sont sans importance pour le TP, le serveur n'étant pas récursif.
 - Les tarifs d'hébergement du TP sont **fictifs**. Les durées de certificats Let's Encrypt (90 jours aujourd'hui, 45 jours annoncés à terme) sont à **revérifier** avant la séance sur le site de l'autorité.

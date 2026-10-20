@@ -54,7 +54,7 @@ Si ta situation le permet : **observer** comment ton entreprise traite le sujet 
 <details markdown="1">
 <summary>Notes pour l'enseignant</summary>
 
-- **Compétences :** codes relus sur le référentiel ; le choix des compétences pour cette séance est une proposition **à valider**.
+- **Compétences :** codes relus sur le référentiel.
 - L'outil `audit.js` (cinq contrôles) a été **exécuté** avec `jsdom` : sur la page à défauts il en détecte **7** (langue absente, image sans alternative, deux champs sans étiquette, saut de titre h1 vers h4, lien « cliquez ici », élément `div` cliquable non utilisable au clavier) ; sur la version corrigée et sur la page du portail, aucun. Il **ne détecte pas** le contraste insuffisant : c'est volontaire, pour montrer qu'un audit automatique est partiel.
 - Contrastes recalculés : `#999999` sur blanc = **2,85:1** (insuffisant), `#595959` sur blanc = **7,0:1**, `#767676` sur blanc = 4,54:1 (minimum courant), blanc sur `#1f4e79` = **8,66:1**.
 - Poids du portail : `salles.html` 2 980 octets (1 051 compressés), `style.css` 1 310 (601), `salles.js` 1 971 (786), compression `gzip -9 -n` : total 6 261 octets bruts, 2 438 compressés, soit **61,1 %** d'économie.

@@ -58,7 +58,7 @@ Si ta situation le permet : **observer** comment ton entreprise traite le sujet 
 <details markdown="1">
 <summary>Notes pour l'enseignant</summary>
 
-- **Compétences :** codes relus sur le référentiel ; le choix des compétences pour cette séance est une proposition **à valider**.
+- **Compétences :** codes relus sur le référentiel.
 - **Contenu juridique : à vérifier.** Le cours reprend la doctrine de la CNIL sur les cookies et les grandes lignes du RGPD, relues sur le site de la CNIL. Les références précises (articles, délais, durées de conservation) sont **à revérifier** sur Légifrance et cnil.fr avant la séance : les règles évoluent et ce support ne remplace pas un avis du délégué à la protection des données.
 - Le bandeau de référence et son test ont été **exécutés** avec `jsdom` : aucune carte avant le choix, chargement après acceptation, retrait après « Gérer mes choix », respect d'un refus, mémorisation du choix. Les boutons Accepter et Refuser sont de même niveau.
 - Le bandeau à critiquer cumule volontairement plusieurs défauts (acceptation implicite, refus caché, traceur déposé avant tout choix, carte chargée d'emblée, pas de retrait).

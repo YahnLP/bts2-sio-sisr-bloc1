@@ -53,7 +53,7 @@ Si ta situation le permet : **observer** comment ton entreprise traite le sujet 
 <details markdown="1">
 <summary>Notes pour l'enseignant</summary>
 
-- **Compétences :** codes relus sur le référentiel ; le choix des compétences pour cette séance est une proposition **à valider**.
+- **Compétences :** codes relus sur le référentiel.
 - Le cas (mairie de Bellevigne, montants, délais) est **fictif** et sert de fil rouge pour les séances S01 à S05.
 - Cette séance prolonge S17 de première année (approches prédictive et agile) : elle se concentre sur le **cadrage**.
 

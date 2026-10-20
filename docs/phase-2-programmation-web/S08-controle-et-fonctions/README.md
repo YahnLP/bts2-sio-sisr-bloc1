@@ -53,7 +53,7 @@ Si ta situation le permet : **observer** comment ton entreprise traite le sujet 
 <details markdown="1">
 <summary>Notes pour l'enseignant</summary>
 
-- **Compétences :** codes relus sur le référentiel ; le choix des compétences pour cette séance est une proposition **à valider**.
+- **Compétences :** codes relus sur le référentiel.
 - Solution **testée** avec `node tests.js` (6 créneaux libres ; taux d'occupation 0,35). La version défectueuse est bien détectée par les tests.
 - Node.js est requis pour `node tests.js` ; à défaut, coller les fonctions et les tests dans la console du navigateur (le test final utilise `require`, à retirer).
 

@@ -53,7 +53,7 @@ Si ta situation le permet : **observer** comment ton entreprise traite le sujet 
 <details markdown="1">
 <summary>Notes pour l'enseignant</summary>
 
-- **Compétences :** codes relus sur le référentiel ; le choix des compétences pour cette séance est une proposition **à valider**.
+- **Compétences :** codes relus sur le référentiel.
 - Schéma, requêtes et pages PHP ont été **testés** sur MariaDB 10.11 avec PHP 8.3 : liste des réservations, refus d'un chevauchement (code 409), acceptation d'un bout à bout, refus d'une saisie invalide (400), injection démontrée sur la page vulnérable, `DELETE` refusé au compte limité, contrainte `fin > debut` refusée par la base.
 - Le mot de passe du compte `portail` est un identifiant de **laboratoire** : il ne doit jamais être repris en production.
 - L'infrastructure du TP (VM Debian, Apache, PHP, MariaDB) est celle d'un TP de la première année ; la page de test vulnérable ne doit jamais être exposée en dehors du laboratoire.

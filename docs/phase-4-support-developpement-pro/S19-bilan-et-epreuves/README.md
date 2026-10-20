@@ -55,7 +55,7 @@ Si ta situation le permet : **observer** comment ton entreprise traite le sujet 
 <details markdown="1">
 <summary>Notes pour l'enseignant</summary>
 
-- **Compétences :** codes relus sur le référentiel ; le choix des compétences pour cette séance est une proposition **à valider**.
+- **Compétences :** codes relus sur le référentiel.
 - **Format de l'épreuve : à vérifier.** Le cours reprend la durée (40 minutes : 10 minutes de présentation, 30 minutes d'échange), le coefficient et la composition du jury tels qu'ils figurent dans la ressource de première année, établie d'après l'arrêté du 8 juillet 2024. La **circulaire nationale d'organisation de la session** en vigueur fait foi : elle est à relire avant la séance.
 - La répétition est raccourcie (10 minutes de présentation, 20 minutes d'échange, 5 minutes de retours) pour que trois passages tiennent dans la séance ; l'épreuve réelle compte 30 minutes d'échange.
 - La grille d'observation est une **grille d'entraînement** qui reprend le vocabulaire des niveaux (non maîtrisé, maîtrise partielle, bonne maîtrise, excellente maîtrise) ; ce n'est pas la grille nationale.
