@@ -1,3 +1,8 @@
 title: "Phase 2 – Programmation web"
 nav:
   - README.md
+  - S06-html-css
+  - S07-javascript-bases
+  - S08-controle-et-fonctions
+  - S09-acces-aux-donnees
+  - S10-evolution-et-versionnage

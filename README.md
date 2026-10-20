@@ -11,7 +11,7 @@ Ce dépôt fait suite à [`bts1-sio-sisr-bloc1`](https://github.com/YahnLP/bts1-
 | Dossier | Contenu | État |
 |---|---|---|
 | [`docs/phase-1-gerer-un-projet`](docs/phase-1-gerer-un-projet/README.md) | S01 à S05 : cadrage, prédictif, agile, outil de projet, recette et changement | Rédigée ; **à valider** |
-| `docs/phase-2-programmation-web` | S06 à S10 : HTML/CSS, JavaScript, contrôle et fonctions, données, évolution d'un site | À venir |
+| [`docs/phase-2-programmation-web`](docs/phase-2-programmation-web/README.md) | S06 à S10 : HTML/CSS, JavaScript, contrôle et fonctions, données, évolution d'un site | Rédigée ; **à valider** |
 | `docs/phase-3-presence-en-ligne` | S11 à S15 : domaine et hébergement, mentions légales et RGPD, audience, e-réputation, accessibilité | À venir |
 | `docs/phase-4-support-developpement-pro` | S16 à S19 : contrôle à distance, catalogue de services, portfolio et veille, bilan | À venir |
 | [`docs/ressources`](docs/ressources/README.md) | Référentiel, outils, glossaire, licences | Disponible |
