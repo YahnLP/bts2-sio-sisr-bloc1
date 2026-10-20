@@ -52,11 +52,27 @@ Un **dépôt** (*repository*) contient les fichiers et tout l'historique.
 
 ## 4. Les branches : une demande, une branche
 
-```
-main ──●────●──────────●── (version stable)
-        \          /
-         ●── ● ── ●   branche « reduction-association »
-```
+<figure class="graphe diagramme"><svg viewBox="0 0 760 200" style="max-width:760px" role="img" aria-label="Branche de travail fusionnée dans main" xmlns="http://www.w3.org/2000/svg">
+<text x="20" y="64" text-anchor="start" class="dg-t">main</text>
+<line x1="70" y1="60" x2="720" y2="60" class="dg-line"/>
+<circle cx="110" cy="60" r="8" class="dg-dark"/>
+<circle cx="200" cy="60" r="8" class="dg-dark"/>
+<circle cx="380" cy="60" r="8" class="dg-dark"/>
+<circle cx="560" cy="60" r="8" class="dg-dark"/>
+<circle cx="680" cy="60" r="8" class="dg-dark"/>
+<text x="700" y="36" text-anchor="end" class="dg-i">version stable</text>
+<line x1="200" y1="66" x2="260" y2="130" class="dg-line"/>
+<line x1="260" y1="130" x2="560" y2="130" class="dg-line"/>
+<line x1="560" y1="130" x2="560" y2="68" class="dg-line"/>
+<circle cx="290" cy="130" r="8" class="dg-warn"/>
+<circle cx="400" cy="130" r="8" class="dg-warn"/>
+<circle cx="510" cy="130" r="8" class="dg-warn"/>
+<text x="260" y="162" text-anchor="start" class="dg-t">branche « reduction-association »</text>
+<text x="560" y="100" text-anchor="start" class="dg-i">fusion</text>
+<text x="150" y="100" text-anchor="middle" class="dg-i">création de la branche</text>
+</svg>
+<figcaption>Une branche par demande ; main contient toujours une version qui marche.</figcaption>
+</figure>
 
 On crée une branche par **demande** (défaut, évolution), on y fait ses commits, on **teste**, puis on **fusionne** dans `main`. Si la demande est abandonnée, on supprime la branche sans avoir rien cassé.
 
