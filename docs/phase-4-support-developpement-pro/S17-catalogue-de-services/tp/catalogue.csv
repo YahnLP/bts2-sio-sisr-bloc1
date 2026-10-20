@@ -1,0 +1,7 @@
+code;service;type;delai_cible_h
+S-COMPTE;Création de compte;demande;8
+S-MAIL;Boîte de messagerie partagée;demande;16
+S-POSTE;Préparation d'un poste;demande;40
+S-IMPR;Panne d'imprimante;incident;4
+S-RESEAU;Accès réseau ou Wi-Fi;incident;4
+S-PORTAIL;Anomalie du portail de réservation;incident;8

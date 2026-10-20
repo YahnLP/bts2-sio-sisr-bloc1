@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+  <title>Veille du service informatique (flux fictif)</title>
+  <link>https://veille.example/</link>
+  <description>Quatorze articles fictifs pour le TP de veille.</description>
+  <item>
+    <title>Un correctif corrige une faille dans un outil de prise en main à distance</title>
+    <link>https://veille.example/article-01</link>
+    <pubDate>Sat, 02 Mar 2030 08:00:00 +0100</pubDate>
+    <category>sécurité</category>
+    <source url="https://veille.example/bulletin">Bulletin Sécurité (fictif)</source>
+  </item>
+  <item>
+    <title>Durées de validité des certificats : le calendrier de réduction se précise</title>
+    <link>https://veille.example/article-02</link>
+    <pubDate>Mon, 04 Mar 2030 09:30:00 +0100</pubDate>
+    <category>réseau</category>
+    <source url="https://veille.example/gazette">Gazette Réseau (fictif)</source>
+  </item>
+  <item>
+    <title>Terminaux mobiles : trois erreurs fréquentes de configuration d'un profil professionnel</title>
+    <link>https://veille.example/article-03</link>
+    <pubDate>Tue, 05 Mar 2030 10:15:00 +0100</pubDate>
+    <category>mobile</category>
+    <source url="https://veille.example/bulletin">Bulletin Sécurité (fictif)</source>
+  </item>
+  <item>
+    <title>Notre nouvelle offre d'hébergement est la meilleure du marché</title>
+    <link>https://veille.example/article-04</link>
+    <pubDate>Wed, 06 Mar 2030 11:00:00 +0100</pubDate>
+    <category>hébergement</category>
+    <source url="https://veille.example/blog">Blog d'un éditeur (fictif)</source>
+  </item>
+  <item>
+    <title>Sauvegardes : pourquoi un test de restauration vaut mieux qu'une simple copie</title>
+    <link>https://veille.example/article-05</link>
+    <pubDate>Thu, 07 Mar 2030 08:45:00 +0100</pubDate>
+    <category>sauvegarde</category>
+    <source url="https://veille.example/gazette">Gazette Réseau (fictif)</source>
+  </item>
+  <item>
+    <title>Accès à distance : le télétravail change la surface d'attaque</title>
+    <link>https://veille.example/article-06</link>
+    <pubDate>Fri, 08 Mar 2030 14:20:00 +0100</pubDate>
+    <category>sécurité</category>
+    <source url="https://veille.example/bulletin">Bulletin Sécurité (fictif)</source>
+  </item>
+  <item>
+    <title>Mettre en place une veille efficace en trente minutes par semaine</title>
+    <link>https://veille.example/article-07</link>
+    <pubDate>Mon, 11 Mar 2030 09:00:00 +0100</pubDate>
+    <category>veille</category>
+    <source url="https://veille.example/gazette">Gazette Réseau (fictif)</source>
+  </item>
+  <item>
+    <title>Découvrez notre outil de gestion de parc, plus rapide que tous les autres</title>
+    <link>https://veille.example/article-08</link>
+    <pubDate>Tue, 12 Mar 2030 10:00:00 +0100</pubDate>
+    <category>parc</category>
+    <source url="https://veille.example/blog">Blog d'un éditeur (fictif)</source>
+  </item>
+  <item>
+    <title>Accessibilité numérique : ce que les contrôles automatiques ne voient pas</title>
+    <link>https://veille.example/article-09</link>
+    <pubDate>Wed, 13 Mar 2030 15:10:00 +0100</pubDate>
+    <category>accessibilité</category>
+    <source url="https://veille.example/gazette">Gazette Réseau (fictif)</source>
+  </item>
+  <item>
+    <title>Fuite de données : les premières heures décident de la suite</title>
+    <link>https://veille.example/article-10</link>
+    <pubDate>Thu, 14 Mar 2030 08:30:00 +0100</pubDate>
+    <category>sécurité</category>
+    <source url="https://veille.example/bulletin">Bulletin Sécurité (fictif)</source>
+  </item>
+  <item>
+    <title>Gestion des appareils mobiles : choisir entre profil professionnel et appareil d'entreprise</title>
+    <link>https://veille.example/article-11</link>
+    <pubDate>Fri, 15 Mar 2030 11:40:00 +0100</pubDate>
+    <category>mobile</category>
+    <source url="https://veille.example/gazette">Gazette Réseau (fictif)</source>
+  </item>
+  <item>
+    <title>Un nouvel outil de supervision séduit les petites collectivités</title>
+    <link>https://veille.example/article-12</link>
+    <pubDate>Mon, 18 Mar 2030 09:20:00 +0100</pubDate>
+    <category>supervision</category>
+    <source url="https://veille.example/blog">Blog d'un éditeur (fictif)</source>
+  </item>
+  <item>
+    <title>Éco-conception : mesurer avant d'optimiser</title>
+    <link>https://veille.example/article-13</link>
+    <pubDate>Tue, 19 Mar 2030 10:50:00 +0100</pubDate>
+    <category>éco-conception</category>
+    <source url="https://veille.example/gazette">Gazette Réseau (fictif)</source>
+  </item>
+  <item>
+    <title>Mots de passe : abandonner les règles de complexité au profit de la longueur</title>
+    <link>https://veille.example/article-14</link>
+    <pubDate>Wed, 20 Mar 2030 13:00:00 +0100</pubDate>
+    <category>sécurité</category>
+    <source url="https://veille.example/bulletin">Bulletin Sécurité (fictif)</source>
+  </item>
+</channel>
+</rss>
