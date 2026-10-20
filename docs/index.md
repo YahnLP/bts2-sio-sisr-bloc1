@@ -17,7 +17,7 @@
 </div>
 
 > [!NOTE]
-> **Ce bloc prolonge celui de la première année** (`bts1-sio-sisr-bloc1`). Il approfondit le **mode projet**, la **programmation web**, la **présence en ligne** et le **support avancé**, puis prépare le portfolio. **Les phases 1 et 2 sont rédigées à ce jour** ; les phases suivantes sont annoncées et seront publiées au fur et à mesure.
+> **Ce bloc prolonge celui de la première année** (`bts1-sio-sisr-bloc1`). Il approfondit le **mode projet**, la **programmation web**, la **présence en ligne** et le **support avancé**, puis prépare le portfolio. **Les phases 1, 2 et 3 sont rédigées à ce jour** ; la phase suivante est annoncée et sera publiée au fur et à mesure.
 
 ## Choisir une phase
 

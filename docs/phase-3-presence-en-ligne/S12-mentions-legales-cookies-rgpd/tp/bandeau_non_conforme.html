@@ -1,0 +1,15 @@
+<div id="bandeau" style="position:fixed;bottom:0;left:0;right:0;background:#1f4e79;color:#fff;padding:1rem">
+  <p>En poursuivant votre navigation, vous acceptez l'utilisation de cookies pour améliorer votre expérience.</p>
+  <button type="button" id="ok" style="background:#2e9e4f;color:#fff;font-size:1.2rem;padding:.6rem 2rem">J'accepte</button>
+  <a href="#parametres" style="color:#9bb8d3;font-size:.7rem">En savoir plus</a>
+</div>
+<script>
+  // La carte et le suivi publicitaire se chargent dès l'ouverture de la page
+  document.cookie = "pub_id=" + Math.random().toString(36).slice(2) + "; max-age=31536000";
+  var f = document.createElement("iframe");
+  f.src = "https://carte.example/embed?lieu=bellevigne";
+  document.body.appendChild(f);
+  document.getElementById("ok").addEventListener("click", function () {
+    document.getElementById("bandeau").remove();
+  });
+</script>
