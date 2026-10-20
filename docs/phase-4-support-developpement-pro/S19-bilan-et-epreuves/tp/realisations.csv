@@ -1,0 +1,9 @@
+id;titre;annee;competences;preuves;origine
+R1;Inventaire du parc et suivi des licences;1;B1.1;oui;entreprise
+R2;Traitement de tickets de support de proximité;1;B1.2;oui;entreprise
+R3;Portail de réservation de salles en HTML et JavaScript;2;B1.3,B1.4;oui;formation
+R4;Pilotage du projet de messagerie avec un outil de gestion de projet;2;B1.4;partielles;entreprise
+R5;Catalogue de services du service informatique;2;B1.5;oui;entreprise
+R6;Veille sur la sécurité des terminaux mobiles;2;B1.6;oui;formation
+R7;Mise en place de la prise de contrôle à distance;2;B1.2,B1.5;non;entreprise
+R8;Mise à jour du site web d'une association;1;B1.3;oui;entreprise

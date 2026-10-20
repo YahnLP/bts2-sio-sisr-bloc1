@@ -49,7 +49,7 @@ Un journal mélange :
 
 Pour compter des visiteurs, on **retire** les robots et scanners. Une adresse IP n'est **pas** une personne : plusieurs personnes peuvent partager une adresse (réseau d'entreprise, téléphonie mobile) et une personne peut changer d'adresse. Le nombre d'adresses distinctes est donc une **estimation**.
 
-Les scanners ne sont pas un incident en soi : ils sont **permanents**. On vérifie que ces pages **n'existent pas**, que les logiciels sont à jour, et on peut **bloquer** les adresses qui insistent (filtre automatique comme `fail2ban`, règles du pare-feu applicatif, voir le bloc 3).
+Les scanners ne sont pas un incident en soi : ils sont **permanents**. On vérifie que ces pages **n'existent pas**, que les logiciels sont à jour, et on peut **bloquer** les adresses qui insistent (filtre automatique comme `fail2ban`, règles du pare-feu applicatif).
 
 > [!NOTE]
 > **Les visiteurs d'un jour ne s'additionnent pas.** Si 20 personnes viennent chaque jour pendant sept jours, ce sont rarement 140 personnes différentes : les mêmes reviennent. Le **nombre de visiteurs distincts sur la semaine** est inférieur à la somme des visiteurs de chaque jour.
