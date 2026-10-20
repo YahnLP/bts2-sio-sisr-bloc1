@@ -12,6 +12,9 @@
 > [!NOTE]
 > **Question qui guide la séance :** *« Le projet est « terminé » pour l'équipe technique : est-il terminé pour les utilisateurs ? »*
 
+> [!NOTE]
+> **Recoupement avec d'autres séances.** La conduite du changement est aussi vue côté management en [CEJM 2e année, S14 – Conduire le changement et la transformation numérique](https://yahnlp.github.io/bts2-sio-sisr-cejma/phase-3-management-numerique/S14-conduite-changement/). Selon l'ordre de vos séances, la première pose les bases et la seconde les reprend en rappel (15 à 20 minutes). Ici, garder la recette, la mise en production et la mesure de l'adoption.
+
 ## Objectifs
 
 À la fin de la séance, l'étudiant est capable de :

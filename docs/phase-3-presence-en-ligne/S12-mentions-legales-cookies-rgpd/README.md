@@ -12,6 +12,9 @@
 > [!NOTE]
 > **Question qui guide la séance :** *« Le portail collecte des noms, des courriels et dépose peut-être des traceurs : que doit-on afficher, demander, conserver et pouvoir effacer ? »*
 
+> [!NOTE]
+> **Recoupement avec d'autres séances.** Les cookies et le consentement sont déjà vus en 1re année en [bloc 3 (1re année), S07 – Collecte, consentement et droits des personnes](https://yahnlp.github.io/bts1-sio-sisr-bloc3/phase-2-donnees-personnelles/S07-collecte-consentement-droits/) et [CEJM 1re année, S14 – RGPD : droits des personnes, cookies et prospection](https://yahnlp.github.io/bts1-sio-sisr-cejma/phase-3-numerique-et-droit/S14-rgpd-droits/) ; les principes du RGPD en [bloc 3 (1re année), S06 – RGPD : notions, acteurs, principes et registre des traitements](https://yahnlp.github.io/bts1-sio-sisr-bloc3/phase-2-donnees-personnelles/S06-rgpd-fondamentaux-registre/). Ici, partir de ces notions pour les appliquer à un site : bandeau, mentions légales, journaux.
+
 ## Objectifs
 
 À la fin de la séance, l'étudiant est capable de :

@@ -12,6 +12,9 @@
 > [!NOTE]
 > **Question qui guide la séance :** *« Avant d'installer quoi que ce soit : qu'est-ce qu'on nous demande, pour qui, jusqu'où, et qu'est-ce qui peut mal tourner ? »*
 
+> [!NOTE]
+> **Recoupement avec d'autres séances.** La gestion de projet est aussi vue côté management en [CEJM 2e année, S13 – La gestion de projet](https://yahnlp.github.io/bts2-sio-sisr-cejma/phase-3-management-numerique/S13-gestion-de-projet/). Selon l'ordre de vos séances, la première pose les bases et la seconde les reprend en rappel (15 à 20 minutes). Ici, garder le cadrage d'un besoin et le lancement d'un projet.
+
 ## Objectifs
 
 À la fin de la séance, l'étudiant est capable de :
