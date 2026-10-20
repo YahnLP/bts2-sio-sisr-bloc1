@@ -55,7 +55,7 @@ Si ta situation le permet : **observer** comment ton entreprise traite le sujet 
 <details markdown="1">
 <summary>Notes pour l'enseignant</summary>
 
-- **Compétences :** codes relus sur le référentiel ; le choix des compétences pour cette séance est une proposition **à valider**.
+- **Compétences :** codes relus sur le référentiel.
 - Le script du serveur SSH de laboratoire, l'accès par clé, le refus d'un mot de passe ou d'une autre clé, le tunnel `-L` vers un petit serveur web local, la lecture du journal (`Accepted publickey`, `Failed publickey`) et l'échec de `sshd -t` sur une option mal orthographiée ont été **exécutés**. Le serveur écoute uniquement sur 127.0.0.1:2222. Le script a été essayé avec le compte administrateur **et** avec un utilisateur ordinaire (cas des postes d'étudiants).
 - **Piège testé :** `sshd` refuse une clé autorisée dont le chemin traverse un dossier ouvert en écriture à tous (par exemple `/tmp`) : message « bad ownership or modes for directory ». Il faut travailler dans un dossier privé du répertoire personnel. Il faut aussi lancer `sshd` par son **chemin absolu** (`/usr/sbin/sshd`).
 - Le TP est fait **sur un seul poste** (client et serveur sur la même machine) : on ne teste ni pare-feu ni réseau réel. Les outils d'assistance à distance (partage d'écran avec accord) et les consoles de gestion des mobiles dépendent des produits : le TP les traite par la **procédure** et la **décision**, pas par une manipulation.

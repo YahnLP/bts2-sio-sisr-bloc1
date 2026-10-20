@@ -53,7 +53,7 @@ Si ta situation le permet : **observer** comment ton entreprise traite le sujet 
 <details markdown="1">
 <summary>Notes pour l'enseignant</summary>
 
-- **Compétences :** codes relus sur le référentiel ; le choix des compétences pour cette séance est une proposition **à valider**.
+- **Compétences :** codes relus sur le référentiel.
 - Les tickets sont **synthétiques** (120 tickets sur quatre semaines, générés avec une graine fixe) ; toutes les statistiques attendues ont été **recalculées** avec `awk` et recoupées avec un second calcul en Python : 75 tickets sur 120 dans les délais (62,5 %), délai moyen 9,21 h, 45 dépassements dont 29 pour l'impression et le réseau (64,4 %), 52 tickets ouverts un lundi (43,3 %).
 - Les dates tombant un week-end sont reportées au lundi dans le jeu de données : le pic du lundi est une **conséquence de la génération** mais sert de point de discussion (que fait-on d'un pic de demandes ?).
 - Les heures de traitement sont des **heures écoulées**, pas des heures ouvrées : le TP le signale, c'est une limite de la mesure à discuter.

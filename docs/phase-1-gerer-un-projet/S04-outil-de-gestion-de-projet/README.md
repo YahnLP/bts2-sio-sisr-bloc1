@@ -50,7 +50,7 @@ Si ta situation le permet : **observer** comment ton entreprise traite le sujet 
 <details markdown="1">
 <summary>Notes pour l'enseignant</summary>
 
-- **Compétences :** codes relus sur le référentiel ; le choix des compétences pour cette séance est une proposition **à valider**.
+- **Compétences :** codes relus sur le référentiel.
 - Les intitulés des menus (Projets, Tâches du projet, états) **dépendent de la version de GLPI installée** : à vérifier sur votre instance avant la séance. Prévoir la variante tableur pour un poste sans instance.
 - Le calcul d'avancement du TP est **vérifié** : 15,5 / 32 = 48,4 %.
 

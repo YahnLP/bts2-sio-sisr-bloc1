@@ -51,7 +51,7 @@ Si ta situation le permet : **observer** comment ton entreprise traite le sujet 
 <details markdown="1">
 <summary>Notes pour l'enseignant</summary>
 
-- **Compétences :** codes relus sur le référentiel ; le choix des compétences pour cette séance est une proposition **à valider**.
+- **Compétences :** codes relus sur le référentiel.
 - Le script de création et l'enchaînement complet du TP (correctif, évolution, conflit d'horaires, étiquette, `git revert`, dépôt central, rejet de `push`, `pull` avec conflit) ont été **exécutés** avec Git ; les tests passent à chaque étape.
 - Aucune forge en ligne n'est nécessaire : le dépôt « central » est un dépôt nu local. Sur une forge (GitHub, GitLab, serveur interne), la même démarche passe par une demande de fusion.
 - Git doit être installé et configuré (`user.name`, `user.email`) sur les postes ; le script configure l'identité localement dans le dépôt d'exercice.

@@ -54,7 +54,7 @@ Si ta situation le permet : **observer** comment ton entreprise traite le sujet 
 <details markdown="1">
 <summary>Notes pour l'enseignant</summary>
 
-- **Compétences :** codes relus sur le référentiel ; le choix des compétences pour cette séance est une proposition **à valider**.
+- **Compétences :** codes relus sur le référentiel.
 - Le journal est **synthétique** (généré par un script avec une graine fixe) au format combiné d'un serveur web ; adresses de documentation (`203.0.113.x`, `198.51.100.x`, `192.0.2.x`). Tous les chiffres des réponses attendues ont été **recalculés** avec `awk`, `sort` et `uniq` : 954 requêtes, 70 adresses distinctes dont 1 robot et 2 scanners, 67 visiteurs.
 - **Mesure d'audience : à vérifier.** Les conditions d'exemption de consentement citées (finalité strictement statistique du site, données anonymes, pas de recoupement ni de transmission à des tiers, pas de suivi entre sites) sont celles de la page de la CNIL consultée lors de la rédaction ; les durées recommandées (13 mois pour le traceur, 25 mois pour la conservation) sont des **recommandations**, pas des textes. À revérifier sur cnil.fr avant la séance.
 - Les consignes de référencement (longueurs de titre et de description) sont des **ordres de grandeur** d'usage, non des règles normées.

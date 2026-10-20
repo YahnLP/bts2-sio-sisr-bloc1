@@ -51,7 +51,7 @@ Si ta situation le permet : **observer** comment ton entreprise traite le sujet 
 <details markdown="1">
 <summary>Notes pour l'enseignant</summary>
 
-- **Compétences :** codes relus sur le référentiel ; le choix des compétences pour cette séance est une proposition **à valider**.
+- **Compétences :** codes relus sur le référentiel.
 - Le script de référence a été **testé** dans un DOM simulé : filtre à 50 places (trois salles restent), refus de l'envoi (champ vide, fin avant début, date passée, courriel invalide), acceptation d'une demande valide.
 - Le TP s'appuie sur la page de S06 ; le champ « capacité minimale » est ajouté dans la partie A.
 

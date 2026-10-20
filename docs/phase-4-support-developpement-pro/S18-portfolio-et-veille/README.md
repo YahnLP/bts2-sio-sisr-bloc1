@@ -52,7 +52,7 @@ Si ta situation le permet : **observer** comment ton entreprise traite le sujet 
 <details markdown="1">
 <summary>Notes pour l'enseignant</summary>
 
-- **Compétences :** codes relus sur le référentiel ; le choix des compétences pour cette séance est une proposition **à valider**.
+- **Compétences :** codes relus sur le référentiel.
 - Le flux de veille est **fictif** : 14 articles, trois sources (Bulletin Sécurité 5, Gazette Réseau 6, Blog d'un éditeur 3), dont trois articles promotionnels du blog de l'éditeur. Les commandes `xmllint --xpath` du TP ont été **exécutées** : 14 articles, 2 sur les mobiles, 4 dans la catégorie sécurité.
 - Cette séance prépare l'épreuve E5 ; les règles officielles (dossier, tableau de synthèse, conformité) sont celles du texte et de la **circulaire en vigueur** : à relire avant la séance. Ce support ne remplace pas le modèle officiel du tableau de synthèse.
 - Le travail sur le portfolio est **individuel et personnel** : ne pas exiger de remettre des preuves réelles contenant des informations d'organisation. Les exercices utilisent des **exemples fictifs**.

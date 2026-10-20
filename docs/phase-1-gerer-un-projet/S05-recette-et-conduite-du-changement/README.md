@@ -53,7 +53,7 @@ Si ta situation le permet : **observer** comment ton entreprise traite le sujet 
 <details markdown="1">
 <summary>Notes pour l'enseignant</summary>
 
-- **Compétences :** codes relus sur le référentiel ; le choix des compétences pour cette séance est une proposition **à valider**.
+- **Compétences :** codes relus sur le référentiel.
 - Les résultats de la campagne de recette sont **fictifs** (20 cas, 16 réussis, 1 anomalie majeure, 3 mineures).
 - Cette séance clôt la phase 1 ; les séances suivantes (S06 à S10) construisent le site que ce projet a cadré.
 

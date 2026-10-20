@@ -50,7 +50,7 @@ Si ta situation le permet : **observer** comment ton entreprise traite le sujet 
 <details markdown="1">
 <summary>Notes pour l'enseignant</summary>
 
-- **Compétences :** codes relus sur le référentiel ; le choix des compétences pour cette séance est une proposition **à valider**.
+- **Compétences :** codes relus sur le référentiel.
 - Le calcul du TP a été **vérifié** (durée totale 24 jours ouvrés ; marges 0, 3, 7 et 1). Les durées sont fictives.
 
 </details>
