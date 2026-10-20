@@ -12,6 +12,9 @@
 > [!NOTE]
 > **Question qui guide la séance :** *« Comment aider un utilisateur ou administrer un serveur à distance sans ouvrir une porte aux attaquants ni se passer de son accord ? »*
 
+> [!NOTE]
+> **Recoupement avec d'autres séances.** Les terminaux mobiles et le BYOD sont déjà abordés en 1re année en [bloc 1 (1re année), S16 – Travail collaboratif : wiki, Git et terminaux mobiles](https://yahnlp.github.io/bts1-sio-sisr-bloc1/phase-4-projet-epreuve/S16-travail-collaboratif/) et [bloc 3 (1re année), S13 – VPN : protéger les échanges entre sites et utilisateurs nomades](https://yahnlp.github.io/bts1-sio-sisr-bloc3/phase-3-chiffrement-reseau/S13-vpn-wireguard/). Ici, partir de ces notions pour le côté support.
+
 ## Objectifs
 
 À la fin de la séance, l'étudiant est capable de :
